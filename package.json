@@ -71,6 +71,6 @@
     "eslint-plugin-react": "^7.20.0"
   },
   "engines": {
-    "node": "10.x"
+    "node": "16.x"
   }
 }
